@@ -1,0 +1,18 @@
+.container {
+  width: min(var(--container), calc(100% - 3rem));
+  margin-inline: auto;
+}
+
+.section {
+  padding: 5.25rem 0;
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.footer {
+  padding: 2.5rem 0;
+}

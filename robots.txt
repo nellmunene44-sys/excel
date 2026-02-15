@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nellmunene44-sys.github.io/nelismunene/sitemap.xml
